@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://da.live/#/gamoman/aem-boilerplate/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p200955-e2065141.adobeaemcloud.com/bin/franklin.delivery/GamoMan/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
