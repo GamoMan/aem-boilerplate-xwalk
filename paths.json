@@ -1,8 +1,10 @@
-{
-  "mappings": [
-    "/content/aem-boilerplate/:/"
-  ],
-  "includes": [
-    "/content/aem-boilerplate/"
-  ]
-}
+1. {
+2. "mappings": [
+3. "/content/wknd-xwalk/:/",
+4. "/content/wknd-xwalk/configuration:/.helix/config.json",
+5. "/content/wknd-xwalk/metadata:/metadata.json"
+6. ],
+7. "includes": [
+8. "/content/wknd-xwalk/"
+9. ]
+10. }
